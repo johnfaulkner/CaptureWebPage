@@ -1,0 +1,15 @@
+D:\work\CaptureWebPage\bin\Debug\CaptureWebPage.exe
+D:\work\CaptureWebPage\bin\Debug\CaptureWebPage.pdb
+D:\work\CaptureWebPage\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\CaptureWebPage\obj\x86\Debug\CaptureWebPage.exe
+D:\work\CaptureWebPage\obj\x86\Debug\CaptureWebPage.pdb
+C:\Users\user\Downloads\CaptureWebPage\obj\x86\Debug\CaptureWebPage.exe
+C:\Users\user\Downloads\CaptureWebPage\obj\x86\Debug\CaptureWebPage.pdb
+C:\Users\user\Downloads\CaptureWebPage\bin\Debug\CaptureWebPage.exe
+C:\Users\user\Downloads\CaptureWebPage\bin\Debug\CaptureWebPage.pdb
+C:\Users\user\Downloads\CaptureWebPage\obj\x86\Debug\CaptureWebPage.csprojResolveAssemblyReference.cache
+C:\Projects\R&D\CaptureWebPage\obj\x86\Debug\CaptureWebPage.exe
+C:\Projects\R&D\CaptureWebPage\obj\x86\Debug\CaptureWebPage.pdb
+C:\Projects\R&D\CaptureWebPage\bin\Debug\CaptureWebPage.exe
+C:\Projects\R&D\CaptureWebPage\bin\Debug\CaptureWebPage.pdb
+C:\Projects\R&D\CaptureWebPage\obj\x86\Debug\CaptureWebPage.csprojResolveAssemblyReference.cache
